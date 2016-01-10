@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDP_dom_4", "SDP_dom_4\SDP_dom_4.vcxproj", "{E5AEDA9B-85ED-4B33-AF96-7E70F35766CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree_TEST", "Tree_TEST\Tree_TEST.vcxproj", "{8647B766-2336-40F3-84F5-7CDC5F22F5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AEDA9B-85ED-4B33-AF96-7E70F35766CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5AEDA9B-85ED-4B33-AF96-7E70F35766CD}.Debug|Win32.Build.0 = Debug|Win32
+		{E5AEDA9B-85ED-4B33-AF96-7E70F35766CD}.Release|Win32.ActiveCfg = Release|Win32
+		{E5AEDA9B-85ED-4B33-AF96-7E70F35766CD}.Release|Win32.Build.0 = Release|Win32
+		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Debug|Win32.Build.0 = Debug|Win32
+		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Release|Win32.ActiveCfg = Release|Win32
+		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

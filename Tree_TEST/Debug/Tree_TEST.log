@@ -1,0 +1,13 @@
+﻿Build started 10.1.2016 г. 12:25:56 ч..
+     1>Project "C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Tree_TEST\Tree_TEST.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittest1.obj
+         "C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\SDP_dom_4.lib"
+            Creating library C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.lib and object C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.exp
+         Tree_TEST.vcxproj -> C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Debug\Tree_TEST.dll
+     1>Done Building Project "C:\Users\ivan\documents\visual studio 2013\Projects\SDP_dom_4\Tree_TEST\Tree_TEST.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
