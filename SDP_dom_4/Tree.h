@@ -32,5 +32,15 @@ public:
 	virtual ~Tree();
 
 	void build(std::string);
+	void AssigCanonName();
+
+	const std::string& GetCanonName() const;
+	const size_t GetDepth() const;
+	const size_t GetSize() const;
+	bool AreIsomorphic(Tree&);
+private:
+	void addNote(std::string&, std::string::iterator&, Node* = NULL);
+	void SetName(Node* = NULL);
 };
 
+//bool AreIsomorphic(Tree&, Tree&);

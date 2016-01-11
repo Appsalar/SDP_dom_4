@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDP_dom_4", "SDP_dom_4\SDP_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree_TEST", "Tree_TEST\Tree_TEST.vcxproj", "{8647B766-2336-40F3-84F5-7CDC5F22F5B0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "runProject", "runProject\runProject.vcxproj", "{80A66A2B-5D92-4BFF-8DE1-61B7EAC6D8C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Debug|Win32.Build.0 = Debug|Win32
 		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Release|Win32.ActiveCfg = Release|Win32
 		{8647B766-2336-40F3-84F5-7CDC5F22F5B0}.Release|Win32.Build.0 = Release|Win32
+		{80A66A2B-5D92-4BFF-8DE1-61B7EAC6D8C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80A66A2B-5D92-4BFF-8DE1-61B7EAC6D8C7}.Debug|Win32.Build.0 = Debug|Win32
+		{80A66A2B-5D92-4BFF-8DE1-61B7EAC6D8C7}.Release|Win32.ActiveCfg = Release|Win32
+		{80A66A2B-5D92-4BFF-8DE1-61B7EAC6D8C7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
